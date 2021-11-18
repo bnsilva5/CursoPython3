@@ -1,0 +1,4 @@
+NicholasSRcon texto
+Otra linea con texto
+Se modifica la linea en memoria
+Cuarta linea del fichero
