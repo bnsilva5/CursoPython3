@@ -1,0 +1,132 @@
+Bases de datos:
+
+Peewee : ORM simple y pequeño, tiene pocos conceptos (pero expresivos), lo que lo hace fácil de aprender e intuitivo de usar.
+	https://github.com/coleifer/peewee
+
+SQLAlchemy : un conjunto de herramientas de Python SQL y un mapeador relacional de objetos que brinda a los desarrolladores de aplicaciones todo el poder y la flexibilidad de SQL.
+	https://www.sqlalchemy.org/
+
+MySQLdb : interfaz compatible con Python DB API-2.0 para acceder a bases de datos MySQL.
+	https://sourceforge.net/projects/mysql-python/
+
+PyGreSQL : un módulo de código abierto que interactúa con una base de datos PostgreSQL. Incorpora la biblioteca de consultas de PostgreSQL para permitir un uso sencillo de las potentes funciones de PostgreSQL desde un script de Python.
+
+
+//--------------------
+Desarrollo web
+
+Django Framework : marco web de Python de alto nivel que fomenta el desarrollo rápido y el diseño limpio y pragmático.
+	https://www.djangoproject.com/
+
+Django Rest Framework : conjunto de herramientas potente y flexible para crear API web con Django.
+	https://www.django-rest-framework.org/	
+
+libgmail : un enlace Python puro para proporcionar acceso al servicio de correo web Gmail de Google.
+	http://libgmail.sourceforge.net/
+
+Google Maps : esta biblioteca trae los servicios web de Google Maps Platform a su aplicación Python.
+	https://pypi.org/project/googlemaps/
+
+//-------------------
+Desarrollo de videojuegos
+
+Pygame : un conjunto de módulos diseñados para escribir videojuegos. Pygame agrega funcionalidad además de la excelente biblioteca SDL. Esto le permite crear juegos y programas multimedia con todas las funciones en el lenguaje Python.
+	https://www.pygame.org/news
+
+Pyglet : una biblioteca de Python potente pero fácil de usar para desarrollar juegos y otras aplicaciones de gran riqueza visual en Windows, Mac OS X y Linux.
+	http://pyglet.org/
+
+pyOpenGL : el enlace Python multiplataforma más común para OpenGL y las API relacionadas.
+	http://pyopengl.sourceforge.net/
+	
+
+//-------------------------
+Interfaces gráficas
+
+PySide : binding oficial de The Qt Project, posiblemente uno de los módulos para interfaces más potentes con licencia libre.
+	https://doc.qt.io/qtforpython/
+
+wxPython : interfaces de usuario para aplicaciones Python que se ejecuten con pocas o ninguna modificación en diferentes sistemas.
+	https://wxpython.org/
+
+PyGObject : paquete de Python que proporciona enlaces para bibliotecas basadas en GObject como GTK, GStreamer, WebKitGTK, GLib, GIO y muchas más.
+	https://pygobject.readthedocs.io/en/latest/
+
+Pmw : kit de herramientas para construir widgets compuestos de alto nivel en Python usando el módulo Tkinter.
+	http://pmw.sourceforge.net/
+
+Tix : un poderoso conjunto de componentes de interfaz de usuario que expande las capacidades de sus aplicaciones Tcl/Tk. El uso de Tix junto con Tk mejorará enormemente la apariencia y funcionalidad de la aplicación.
+	http://tix.sourceforge.net/
+	
+
+//-------------------------------
+Ciencia de datos y matemáticas
+
+Numpy: Una biblioteca que agrega soporte para matrices y matrices grandes y multidimensionales, junto con una gran colección de funciones matemáticas de alto nivel para operar en estas matrices.
+	https://numpy.org/
+
+Matplotlib : una biblioteca de trazado de Python 2D que produce figuras de calidad de publicación en una variedad de formatos impresos y entornos interactivos en todas las plataformas. Matplotlib se puede utilizar en scripts de Python, el intérprete de Python, el cuaderno Jupyter, servidores de aplicaciones web y cuatro kits de herramientas de interfaz gráfica de usuario.
+	https://matplotlib.org/
+
+SciPy : SciPy (pronunciado "Sigh Pie") es un ecosistema de software de código abierto basado en Python para matemáticas, ciencias e ingeniería.
+	https://www.scipy.org/
+
+OpenCV : proporciona una biblioteca, herramientas y hardware optimizados de Computer Vision en tiempo real. También es compatible con la ejecución de modelos para Machine Learning.
+	https://opencv.org/
+
+Tensorflow : plataforma de código abierto de extremo a extremo para el aprendizaje automático.
+	https://www.tensorflow.org/
+	
+Keras : biblioteca de Redes Neuronales de Código Abierto escrita en Python. Es capaz de ejecutarse sobre TensorFlow, Microsoft Cognitive Toolkit o Theano.​ Está especialmente diseñada para posibilitar la experimentación en más o menos poco tiempo con redes de Aprendizaje Profundo.
+	https://keras.io/
+
+
+//-----------------------------
+Manipulación de imágenes y videos
+
+Biblioteca de imágenes de Python (PIL) : PIL agrega capacidades de procesamiento de imágenes a su intérprete de Python. Esta biblioteca admite muchos formatos de archivo y proporciona potentes capacidades de procesamiento de imágenes y gráficos.
+
+GDmodule : una interfaz para la biblioteca GD escrita por Thomas Boutell.
+	http://newcenturycomputers.net/projects/gdmodule.html
+
+VideoCapture: una extensión de Win32 Python para acceder a dispositivos de video como USB y tarjetas de TV.
+	http://videocapture.sourceforge.net/
+
+MoviePy : una biblioteca de Python para la edición de video: corte, concatenaciones, inserciones de títulos, composición de video (también conocida como edición no lineal), procesamiento de video y creación de efectos personalizados.
+	https://pypi.org/project/moviepy/
+
+pyscreenshot : un módulo multiplataforma que permite tomar capturas de pantalla sin instalar bibliotecas de terceros.
+	https://pypi.org/project/pyscreenshot/
+	
+//--------------------------------
+Sonido
+
+La manipulación de sonido se realiza fácilmente en Python, gracias a algunos módulos muy útiles.
+
+pySonic : una envoltura de Python alrededor de la biblioteca de sonido FMOD multiplataforma de alto rendimiento.
+	http://pysonic.sourceforge.net/
+
+PyMedia : un módulo de Python para manipulaciones de archivos WAV, MP3, Ogg, AVI, DivX, DVD, CD-DA, etc. Le permite analizar, demultiplexar, multiplexar, decodificar y codificar todos los formatos compatibles. Se puede compilar para Windows, Linux y Cygwin.
+	http://pymedia.org/
+
+PMIDI : la biblioteca PMIDI envuelve la biblioteca de flujos MIDI de Windows para su uso en Python. Con PMIDI, los desarrolladores pueden generar secuencias musicales sintetizadas sobre la marcha en su código para su reproducción para los usuarios.
+	http://www.cs.unc.edu/Research/assist/developer.shtml
+
+Mutagen : un módulo para manejar metadatos de audio. Es compatible con archivos de audio FLAC, M4A, Musepack, MP3, Ogg FLAC, Ogg Speex, Ogg Theora, Ogg Vorbis, True Audio y WavPack.
+	https://github.com/quodlibet/mutagen
+	
+//--------------------------
+Puertos USB y serie
+
+PyUSB pretende ser un módulo de Python fácil de usar para acceder a dispositivos USB. PyUSB se basa en una biblioteca de sistema nativa para el acceso USB. Actualmente, funciona de inmediato con libusb 0.1, libusb 1.0, libusbx, libusb-win32 y OpenUSB, y funciona con cualquier versión de Python a partir de 2.4, incluidas las versiones de Python 3.
+	https://pyusb.github.io/pyusb/
+
+PySerial : biblioteca de acceso al puerto serie de Python.
+	https://github.com/pyserial/pyserial
+
+USPP es un módulo Python multiplataforma para acceder a los puertos serie. Por el momento, solo funciona en Windows.
+	https://sites.google.com/site/ibarona/uspp
+
+
+
+
